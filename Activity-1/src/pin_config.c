@@ -1,6 +1,6 @@
 #include <avr/io.h>
 #include "pin_config.h"
-
+#include "../inc/pin_config.h"
 void pin_config()
 {
    // Direction of ports
