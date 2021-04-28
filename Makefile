@@ -3,8 +3,8 @@ PROJ_NAME = Embedded_C
 BUILD_DIR = Build
 
 # All Source code files
-SRC =src/Activity.c\
-main.c
+SRC =main.c\
+src/Activity1.c
 
 
 
