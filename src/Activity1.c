@@ -21,7 +21,7 @@ void pin_config()
     PORTD |= (1 << PD3);
 }
 
-int system_init(void)
+int activity1(void)
 {
     // call function that configures the registers
     pin_config();
@@ -33,6 +33,7 @@ int system_init(void)
             // LED set to ON if true
             PORTB |= (1 << PB0);
             _delay_ms(200);
+            activity2();
         }
         else
         {
