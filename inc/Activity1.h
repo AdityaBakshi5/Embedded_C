@@ -18,8 +18,8 @@
 void pin_config();
 
 /**
- * @brief function for determining the status of LED actuator depending on the status of both passenger seat and heater button 
- * @return int 
+ * @brief function for determining the status of LED actuator depending on the status of both passenger seat and heater button
+ * @return int
  */
-int system_init(void);
+int activity1(void);
 #endif // ACTIVITY1_H_INCLUDED
