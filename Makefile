@@ -4,7 +4,7 @@ BUILD_DIR = Build
 
 # All Source code files
 SRC =src/Activity.c\
-main.c\
+main.c
 
 
 
