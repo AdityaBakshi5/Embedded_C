@@ -1,6 +1,6 @@
 #include <avr/io.h>
 #include <util/delay.h>
-
+#include "../inc/Activity2.h"
 /**
  * @brief defining status of switch_1 is defined by considering the status of input hardware pin
  * @brief defining status of switch_2 is defined by considering the status of input hardware pin
