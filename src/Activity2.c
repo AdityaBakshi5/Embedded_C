@@ -26,7 +26,7 @@ int activity2(void)
 {
     InitADC();
     uint16_t temp=0;
-    temp=ReadADC(0);
+    ReadADC(temp);
     _delay_ms(200);
     return 0;
 }
