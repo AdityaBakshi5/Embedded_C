@@ -1,4 +1,4 @@
-# Embedded C Programming with Continuous Integration and Code Quality  
+# EMBEDDED C PROJECT - SEAT HEATING APPLICATION 
 
 ## Embedded C Project
 ![Final](https://github.com/AdityaBakshi5/Embedded_C/blob/main/Images/Activity4/Activity_4_serial_monitor.jpeg)
