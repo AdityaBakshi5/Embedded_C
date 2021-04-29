@@ -25,8 +25,7 @@ uint16_t ReadADC(uint8_t ch)
 int activity2(void)
 {
     InitADC();
-    uint16_t temp=0;
-    ReadADC(temp);
+    ReadADC(0);
     _delay_ms(200);
     return 0;
 }
