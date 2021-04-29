@@ -18,14 +18,14 @@
 
 ## Activity 3
 
-|ADC-0V|ADC-1.08V|ADC-3.55V|ADC-4.61V|  
+|ADC-1V|ADC-2V|ADC-3.55V|ADC-4.75V|  
 |:--:|:--:|:--:|:--:|  
 |![Logic-00](https://github.com/AdityaBakshi5/Embedded_C/blob/main/Images/Activity3/Activity3_PWM_20%25.jpeg)|![Logic-01](https://github.com/AdityaBakshi5/Embedded_C/blob/main/Images/Activity3/Activity3_PWM_40%25.jpeg)|![Logic-10](https://github.com/AdityaBakshi5/Embedded_C/blob/main/Images/Activity3/Activity3_PWM_71%25.jpeg)|![Logic-11](https://github.com/AdityaBakshi5/Embedded_C/blob/main/Images/Activity3/Activity3_PWM_95%25.jpeg)|  
 |Output PWM-20%|Output PWM-40%|Output PWM-71%|Output PWM-95%|
 
 
 ## Activity 4
-![Final](https://github.com/AdityaBakshi5/Embedded_C/tree/main/Images/Activity4)
+![Final](https://github.com/AdityaBakshi5/Embedded_C/blob/main/Images/Activity4/Activity_4_circuit.jpeg)
 
 #### CI and Code Quality
 
