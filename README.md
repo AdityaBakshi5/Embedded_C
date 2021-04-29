@@ -1,6 +1,6 @@
 # EMBEDDED C PROJECT - SEAT HEATING APPLICATION 
 
-## Embedded C Project
+## Schematic diagram
 ![Final](https://github.com/AdityaBakshi5/Embedded_C/blob/main/Images/Activity4/Activity_4_serial_monitor.jpeg)
 
 ## Activity 1
