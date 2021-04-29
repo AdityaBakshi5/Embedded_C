@@ -1,6 +1,6 @@
 #include <avr/io.h>
 #include <util/delay.h>
-#include "../inc/Activity2.h"
+#include "Activity2.h"
 
 void InitADC()
 {
@@ -25,7 +25,7 @@ uint16_t ReadADC(uint8_t ch)
 int activity2(void)
 {
     InitADC();
-    uint16_t temp;
+    uint16_t temp=0;
     temp=ReadADC(0);
     _delay_ms(200);
     return 0;
