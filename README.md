@@ -31,5 +31,5 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/AdityaBakshi5/Embedded_C/actions/workflows/compile.yml/badge.svg)](https://github.com/AdityaBakshi5/Embedded_C/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/AdityaBakshi5/Embedded_C/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/AdityaBakshi5/Embedded_C/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/01a94203ace64bc99a28fc4fb467e05a)](https://www.codacy.com/gh/AdityaBakshi5/Embedded_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AdityaBakshi5/Embedded_C&amp;utm_campaign=Badge_Grade)|
+|[![Compile-Linux](https://github.com/AdityaBakshi5/Embedded_C/actions/workflows/Compile.yml/badge.svg)](https://github.com/AdityaBakshi5/Embedded_C/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/AdityaBakshi5/Embedded_C/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/AdityaBakshi5/Embedded_C/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/01a94203ace64bc99a28fc4fb467e05a)](https://www.codacy.com/gh/AdityaBakshi5/Embedded_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AdityaBakshi5/Embedded_C&amp;utm_campaign=Badge_Grade)|
   
