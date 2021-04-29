@@ -8,6 +8,7 @@
  * @copyright Copyright (c) 2021
  *
  */
+#define F_CPU 16000000UL 	/**< Clock Frequency of MCU is 16 MHz */
 #ifndef ACTIVITY1_H_INCLUDED
 #define ACTIVITY1_H_INCLUDED
 /**
