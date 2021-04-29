@@ -1,7 +1,7 @@
 # EMBEDDED C PROJECT - SEAT HEATING APPLICATION 
 
 ## Schematic diagram
-![Final](https://github.com/AdityaBakshi5/Embedded_C/blob/main/Images/Activity4/Activity_4_serial_monitor.jpeg)
+![Final](https://github.com/AdityaBakshi5/Embedded_C/blob/main/Images/Activity4/Activity_4_circuit.jpeg)
 
 ## Activity 1
 
@@ -25,7 +25,7 @@
 
 
 ## Activity 4
-![Final](https://github.com/AdityaBakshi5/Embedded_C/blob/main/Images/Activity4/Activity_4_circuit.jpeg)
+![Final](https://github.com/AdityaBakshi5/Embedded_C/blob/main/Images/Activity4/Activity_4_SerialMonitor.jpeg)
 
 #### CI and Code Quality
 
