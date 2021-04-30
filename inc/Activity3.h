@@ -10,10 +10,7 @@
  */
 #ifndef ACTIVITY3_H_INCLUDED
 #define ACTIVITY3_H_INCLUDED
-/**
- * @brief function that configures the registers for PWM generation
- */
-void Timer();
+
 /**
  * @brief function that outputs the temperature as per the % PWM given
  * 
@@ -21,4 +18,3 @@ void Timer();
  */
 int activity3();
 #endif // ACTIVITY3_H_INCLUDED
-
